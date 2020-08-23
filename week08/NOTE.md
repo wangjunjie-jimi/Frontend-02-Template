@@ -1,4 +1,4 @@
-## HTMl
+## HTML
 
 ### HTML语法
 
